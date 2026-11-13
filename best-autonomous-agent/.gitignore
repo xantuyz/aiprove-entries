@@ -1,0 +1,8 @@
+node_modules/
+agent-key.json
+*.key
+.token
+.env
+transcript.log
+last-run.json
+.DS_Store
